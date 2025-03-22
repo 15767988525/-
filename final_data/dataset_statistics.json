@@ -1,0 +1,42 @@
+{
+    "ct_cases": {
+        "total": 20,
+        "with_tumor": 15,
+        "without_tumor": 5,
+        "train": {
+            "total": 13,
+            "with_tumor": 10,
+            "without_tumor": 3
+        },
+        "val": {
+            "total": 2,
+            "with_tumor": 2,
+            "without_tumor": 0
+        },
+        "test": {
+            "total": 5,
+            "with_tumor": 3,
+            "without_tumor": 2
+        }
+    },
+    "mri_cases": {
+        "total": 60,
+        "with_tumor": 60,
+        "without_tumor": 0,
+        "train": {
+            "total": 42,
+            "with_tumor": 42,
+            "without_tumor": 0
+        },
+        "val": {
+            "total": 9,
+            "with_tumor": 9,
+            "without_tumor": 0
+        },
+        "test": {
+            "total": 9,
+            "with_tumor": 9,
+            "without_tumor": 0
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "machine": "Skyra",
+    "date": "2018",
+    "sequence": "VIBE TWIST",
+    "spacing": {
+        "x": 0.938,
+        "y": 0.938,
+        "z": 2.5
+    },
+    "contrast_phase": "arterial"
+}

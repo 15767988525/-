@@ -1,0 +1,11 @@
+{
+    "machine": "SIGNA Voyager",
+    "date": "2017",
+    "sequence": "LAVA",
+    "spacing": {
+        "x": 0.898,
+        "y": 0.898,
+        "z": 4.4
+    },
+    "contrast_phase": "unkown"
+}
