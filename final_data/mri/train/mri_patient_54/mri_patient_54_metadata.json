@@ -1,0 +1,11 @@
+{
+    "machine": "TrioTim",
+    "date": "2016",
+    "sequence": "VIBE",
+    "spacing": {
+        "x": 0.918,
+        "y": 0.918,
+        "z": 2.0
+    },
+    "contrast_phase": "arterial"
+}
