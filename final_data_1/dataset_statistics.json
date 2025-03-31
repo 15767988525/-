@@ -1,15 +1,15 @@
 {
     "ct_cases": {
-        "total": 110,
-        "with_tumor": 110,
+        "total": 103,
+        "with_tumor": 103,
         "train": {
-            "total": 76
+            "total": 70
         },
         "val": {
             "total": 15
         },
         "test": {
-            "total": 19
+            "total": 18
         }
     },
     "mri_cases": {
@@ -28,26 +28,26 @@
     "complexity": {
         "ct": {
             "train": {
-                "overall_mean": 2.0753414476228174,
-                "liver_mean": 2.504872842105263,
-                "tumor_mean": 1.860575750381594
+                "overall_mean": 2.1207890803091622,
+                "liver_mean": 2.4910048000000002,
+                "tumor_mean": 1.9356812204637435
             },
             "val": {
-                "overall_mean": 2.3332666695988924,
-                "liver_mean": 2.569622133333333,
-                "tumor_mean": 2.215088937731672
+                "overall_mean": 2.387101862683971,
+                "liver_mean": 2.9029554666666666,
+                "tumor_mean": 2.129175060692623
             },
             "test": {
-                "overall_mean": 2.4340655215639426,
-                "liver_mean": 2.9473684210526314,
-                "tumor_mean": 2.177414071819598
+                "overall_mean": 2.4297514401752323,
+                "liver_mean": 2.9166666666666665,
+                "tumor_mean": 2.186293826929515
             }
         },
         "mri": {
             "train": {
-                "overall_mean": 2.3821512669614524,
+                "overall_mean": 2.382151266961453,
                 "liver_mean": 2.876156090720129,
-                "tumor_mean": 2.1351488550821145
+                "tumor_mean": 2.135148855082115
             },
             "val": {
                 "overall_mean": 2.571485175589113,

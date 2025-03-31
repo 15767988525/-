@@ -1,0 +1,11 @@
+{
+    "machine": "OPTIMA MR360",
+    "date": "2015",
+    "sequence": "LAVA",
+    "spacing": {
+        "x": 0.859,
+        "y": 0.859,
+        "z": 4.4
+    },
+    "contrast_phase": "unkown"
+}
