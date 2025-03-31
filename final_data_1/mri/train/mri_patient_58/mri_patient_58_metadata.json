@@ -1,0 +1,11 @@
+{
+    "machine": "Aera",
+    "date": "2013",
+    "sequence": "VIBE",
+    "spacing": {
+        "x": 1.146,
+        "y": 1.146,
+        "z": 3.0
+    },
+    "contrast_phase": "arterial"
+}

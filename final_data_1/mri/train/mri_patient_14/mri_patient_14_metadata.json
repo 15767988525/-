@@ -1,0 +1,11 @@
+{
+    "machine": "Aera",
+    "date": "2017",
+    "sequence": "VIBE CAIPIRINHA",
+    "spacing": {
+        "x": 1.312,
+        "y": 1.312,
+        "z": 3.0
+    },
+    "contrast_phase": "arterial"
+}

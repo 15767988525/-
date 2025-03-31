@@ -1,0 +1,2585 @@
+{
+    "liver_0": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_0",
+        "metrics": {
+            "liver": {
+                "volume": 1358.028,
+                "num_components": 2,
+                "surface_area": 19804.94921875,
+                "surface_volume_ratio": 14.583608893741513,
+                "complexity_score": 2.5
+            },
+            "tumor": {
+                "volume": 6.552,
+                "num_components": 12,
+                "surface_area": 735.8994140625,
+                "surface_volume_ratio": 112.31676038804946,
+                "complexity_score": 2.048246427908703
+            },
+            "tumor_burden": 0.004824642790870291,
+            "overall_complexity": 2.198830951939135
+        }
+    },
+    "liver_1": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_1",
+        "metrics": {
+            "liver": {
+                "volume": 1471.824,
+                "num_components": 11,
+                "surface_area": 21877.85546875,
+                "surface_volume_ratio": 14.864450823434051,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 16.392,
+                "num_components": 13,
+                "surface_area": 1635.6473388671875,
+                "surface_volume_ratio": 99.78326859853512,
+                "complexity_score": 2.1113720118709844
+            },
+            "tumor_burden": 0.011137201187098456,
+            "overall_complexity": 2.407581341247323
+        }
+    },
+    "liver_10": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_10",
+        "metrics": {
+            "liver": {
+                "volume": 1694.808,
+                "num_components": 1,
+                "surface_area": 22711.59375,
+                "surface_volume_ratio": 13.400688308056134,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 14.46,
+                "num_components": 7,
+                "surface_area": 1075.795654296875,
+                "surface_volume_ratio": 74.39803971624308,
+                "complexity_score": 2.0853193990115693
+            },
+            "tumor_burden": 0.008531939901156946,
+            "overall_complexity": 2.056879599341046
+        }
+    },
+    "liver_101": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_101",
+        "metrics": {
+            "liver": {
+                "volume": 2254.272,
+                "num_components": 86,
+                "surface_area": 33023.796875,
+                "surface_volume_ratio": 14.649428673647192,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 131.844,
+                "num_components": 11,
+                "surface_area": 6277.9580078125,
+                "surface_volume_ratio": 47.61656205676785,
+                "complexity_score": 2.5848628736904864
+            },
+            "tumor_burden": 0.05848628736904863,
+            "overall_complexity": 2.7232419157936576
+        }
+    },
+    "liver_102": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_102",
+        "metrics": {
+            "liver": {
+                "volume": 1821.732,
+                "num_components": 11,
+                "surface_area": 25520.05078125,
+                "surface_volume_ratio": 14.008674591679787,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 17.028,
+                "num_components": 1,
+                "surface_area": 782.69091796875,
+                "surface_volume_ratio": 45.96493528122798,
+                "complexity_score": 1.2934714875733642
+            },
+            "tumor_burden": 0.009347148757336424,
+            "overall_complexity": 1.8623143250489094
+        }
+    },
+    "liver_104": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_104",
+        "metrics": {
+            "liver": {
+                "volume": 1439.124,
+                "num_components": 64,
+                "surface_area": 21214.462890625,
+                "surface_volume_ratio": 14.741233479967674,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 135.252,
+                "num_components": 8,
+                "surface_area": 4353.6328125,
+                "surface_volume_ratio": 32.189045725756365,
+                "complexity_score": 2.939821724882637
+            },
+            "tumor_burden": 0.0939821724882637,
+            "overall_complexity": 2.959881149921758
+        }
+    },
+    "liver_105": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_105",
+        "metrics": {
+            "liver": {
+                "volume": 1754.82,
+                "num_components": 1,
+                "surface_area": 23230.857421875,
+                "surface_volume_ratio": 13.238313571691114,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 0.0,
+                "num_components": 0,
+                "surface_area": 0,
+                "surface_volume_ratio": 0,
+                "complexity_score": 0.0
+            },
+            "tumor_burden": 0.0,
+            "overall_complexity": 0.6666666666666666
+        }
+    },
+    "liver_106": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_106",
+        "metrics": {
+            "liver": {
+                "volume": 983.7,
+                "num_components": 1,
+                "surface_area": 15261.939453125,
+                "surface_volume_ratio": 15.51483120171292,
+                "complexity_score": 1.9837
+            },
+            "tumor": {
+                "volume": 0.0,
+                "num_components": 0,
+                "surface_area": 0,
+                "surface_volume_ratio": 0,
+                "complexity_score": 0.0
+            },
+            "tumor_burden": 0.0,
+            "overall_complexity": 0.6612333333333333
+        }
+    },
+    "liver_107": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_107",
+        "metrics": {
+            "liver": {
+                "volume": 1533.84,
+                "num_components": 2,
+                "surface_area": 22056.318359375,
+                "surface_volume_ratio": 14.379803864402415,
+                "complexity_score": 2.5
+            },
+            "tumor": {
+                "volume": 3.012,
+                "num_components": 5,
+                "surface_area": 336.01763916015625,
+                "surface_volume_ratio": 111.55964115543036,
+                "complexity_score": 2.0196369895165076
+            },
+            "tumor_burden": 0.001963698951650759,
+            "overall_complexity": 2.179757993011005
+        }
+    },
+    "liver_108": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_108",
+        "metrics": {
+            "liver": {
+                "volume": 1452.804,
+                "num_components": 190,
+                "surface_area": 55390.171875,
+                "surface_volume_ratio": 38.12638998447141,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 615.864,
+                "num_components": 70,
+                "surface_area": 37908.921875,
+                "surface_volume_ratio": 61.55404744391618,
+                "complexity_score": 3.0
+            },
+            "tumor_burden": 0.423914031073703,
+            "overall_complexity": 3.0
+        }
+    },
+    "liver_109": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_109",
+        "metrics": {
+            "liver": {
+                "volume": 1454.112,
+                "num_components": 4,
+                "surface_area": 22073.890625,
+                "surface_volume_ratio": 15.180323541102748,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 34.44,
+                "num_components": 31,
+                "surface_area": 2981.21533203125,
+                "surface_volume_ratio": 86.56258223087254,
+                "complexity_score": 2.236845579982835
+            },
+            "tumor_burden": 0.023684557998283486,
+            "overall_complexity": 2.4912303866552232
+        }
+    },
+    "liver_11": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_11",
+        "metrics": {
+            "liver": {
+                "volume": 1464.996,
+                "num_components": 1,
+                "surface_area": 21401.478515625,
+                "surface_volume_ratio": 14.608557644952613,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 4.704,
+                "num_components": 5,
+                "surface_area": 530.947998046875,
+                "surface_volume_ratio": 112.87159822425065,
+                "complexity_score": 2.0321093026875157
+            },
+            "tumor_burden": 0.003210930268751587,
+            "overall_complexity": 2.021406201791677
+        }
+    },
+    "liver_110": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_110",
+        "metrics": {
+            "liver": {
+                "volume": 1284.876,
+                "num_components": 9,
+                "surface_area": 21451.248046875,
+                "surface_volume_ratio": 16.695189299881857,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 51.228,
+                "num_components": 17,
+                "surface_area": 3455.837890625,
+                "surface_volume_ratio": 67.45994164568205,
+                "complexity_score": 2.3986999523689443
+            },
+            "tumor_burden": 0.039869995236894454,
+            "overall_complexity": 2.5991333015792963
+        }
+    },
+    "liver_111": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_111",
+        "metrics": {
+            "liver": {
+                "volume": 2250.3,
+                "num_components": 1,
+                "surface_area": 27991.5078125,
+                "surface_volume_ratio": 12.439011604008353,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 3.564,
+                "num_components": 7,
+                "surface_area": 447.58819580078125,
+                "surface_volume_ratio": 125.5859135243494,
+                "complexity_score": 2.0158378882815624
+            },
+            "tumor_burden": 0.0015837888281562457,
+            "overall_complexity": 2.0105585921877083
+        }
+    },
+    "liver_112": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_112",
+        "metrics": {
+            "liver": {
+                "volume": 1302.948,
+                "num_components": 1,
+                "surface_area": 18165.91015625,
+                "surface_volume_ratio": 13.942160513121014,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 0.396,
+                "num_components": 4,
+                "surface_area": 71.73564147949219,
+                "surface_volume_ratio": 181.15060979669744,
+                "complexity_score": 1.8030392617356947
+            },
+            "tumor_burden": 0.00030392617356947476,
+            "overall_complexity": 1.8686928411571297
+        }
+    },
+    "liver_113": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_113",
+        "metrics": {
+            "liver": {
+                "volume": 1602.864,
+                "num_components": 16,
+                "surface_area": 23825.736328125,
+                "surface_volume_ratio": 14.864477789834321,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 40.152,
+                "num_components": 19,
+                "surface_area": 3132.76220703125,
+                "surface_volume_ratio": 78.02256941201559,
+                "complexity_score": 2.2505016021321835
+            },
+            "tumor_burden": 0.02505016021321834,
+            "overall_complexity": 2.5003344014214557
+        }
+    },
+    "liver_114": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_114",
+        "metrics": {
+            "liver": {
+                "volume": 1810.62,
+                "num_components": 1,
+                "surface_area": 23350.26953125,
+                "surface_volume_ratio": 12.896283886873006,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 0.0,
+                "num_components": 0,
+                "surface_area": 0,
+                "surface_volume_ratio": 0,
+                "complexity_score": 0.0
+            },
+            "tumor_burden": 0.0,
+            "overall_complexity": 0.6666666666666666
+        }
+    },
+    "liver_115": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_115",
+        "metrics": {
+            "liver": {
+                "volume": 1511.52,
+                "num_components": 1,
+                "surface_area": 22649.982421875,
+                "surface_volume_ratio": 14.98490421686448,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 0.0,
+                "num_components": 0,
+                "surface_area": 0,
+                "surface_volume_ratio": 0,
+                "complexity_score": 0.0
+            },
+            "tumor_burden": 0.0,
+            "overall_complexity": 0.6666666666666666
+        }
+    },
+    "liver_116": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_116",
+        "metrics": {
+            "liver": {
+                "volume": 1587.048,
+                "num_components": 139,
+                "surface_area": 27912.490234375,
+                "surface_volume_ratio": 17.587678655198204,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 268.764,
+                "num_components": 1,
+                "surface_area": 6054.78759765625,
+                "surface_volume_ratio": 22.52826865821408,
+                "complexity_score": 2.2
+            },
+            "tumor_burden": 0.1693483750964054,
+            "overall_complexity": 2.466666666666667
+        }
+    },
+    "liver_117": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_117",
+        "metrics": {
+            "liver": {
+                "volume": 1487.46,
+                "num_components": 99,
+                "surface_area": 34329.4921875,
+                "surface_volume_ratio": 23.079270829131538,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 380.064,
+                "num_components": 80,
+                "surface_area": 18579.158203125,
+                "surface_volume_ratio": 48.88428844385419,
+                "complexity_score": 3.0
+            },
+            "tumor_burden": 0.25551208099713607,
+            "overall_complexity": 3.0
+        }
+    },
+    "liver_118": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_118",
+        "metrics": {
+            "liver": {
+                "volume": 1774.572,
+                "num_components": 20,
+                "surface_area": 31716.083984375,
+                "surface_volume_ratio": 17.872525873492314,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 347.88,
+                "num_components": 11,
+                "surface_area": 7849.8583984375,
+                "surface_volume_ratio": 22.56484534447942,
+                "complexity_score": 3.0
+            },
+            "tumor_burden": 0.19603600192046308,
+            "overall_complexity": 3.0
+        }
+    },
+    "liver_119": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_119",
+        "metrics": {
+            "liver": {
+                "volume": 2520.828,
+                "num_components": 1,
+                "surface_area": 27481.603515625,
+                "surface_volume_ratio": 10.901816195164843,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 0.0,
+                "num_components": 0,
+                "surface_area": 0,
+                "surface_volume_ratio": 0,
+                "complexity_score": 0.0
+            },
+            "tumor_burden": 0.0,
+            "overall_complexity": 0.6666666666666666
+        }
+    },
+    "liver_12": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_12",
+        "metrics": {
+            "liver": {
+                "volume": 1797.54,
+                "num_components": 1,
+                "surface_area": 23016.025390625,
+                "surface_volume_ratio": 12.80417981832115,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 0.348,
+                "num_components": 1,
+                "surface_area": 49.58359909057617,
+                "surface_volume_ratio": 142.48160658211543,
+                "complexity_score": 1.2019359791715345
+            },
+            "tumor_burden": 0.00019359791715344303,
+            "overall_complexity": 1.4679573194476898
+        }
+    },
+    "liver_120": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_120",
+        "metrics": {
+            "liver": {
+                "volume": 1588.308,
+                "num_components": 2,
+                "surface_area": 22143.921875,
+                "surface_volume_ratio": 13.941831102657671,
+                "complexity_score": 2.5
+            },
+            "tumor": {
+                "volume": 4.104,
+                "num_components": 8,
+                "surface_area": 463.3935546875,
+                "surface_volume_ratio": 112.91265952424463,
+                "complexity_score": 2.0258388171563704
+            },
+            "tumor_burden": 0.0025838817156370176,
+            "overall_complexity": 2.1838925447709134
+        }
+    },
+    "liver_121": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_121",
+        "metrics": {
+            "liver": {
+                "volume": 1807.26,
+                "num_components": 1,
+                "surface_area": 23410.240234375,
+                "surface_volume_ratio": 12.953443463793256,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 2.004,
+                "num_components": 3,
+                "surface_area": 211.78427124023438,
+                "surface_volume_ratio": 105.68077407197325,
+                "complexity_score": 1.6110886092759205
+            },
+            "tumor_burden": 0.0011088609275920454,
+            "overall_complexity": 1.7407257395172804
+        }
+    },
+    "liver_122": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_122",
+        "metrics": {
+            "liver": {
+                "volume": 1267.116,
+                "num_components": 18,
+                "surface_area": 21698.59375,
+                "surface_volume_ratio": 17.124394096515235,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 56.7,
+                "num_components": 14,
+                "surface_area": 2784.39599609375,
+                "surface_volume_ratio": 49.10751315861993,
+                "complexity_score": 2.4474728438438156
+            },
+            "tumor_burden": 0.044747284384381546,
+            "overall_complexity": 2.631648562562544
+        }
+    },
+    "liver_123": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_123",
+        "metrics": {
+            "liver": {
+                "volume": 2237.16,
+                "num_components": 8,
+                "surface_area": 34773.625,
+                "surface_volume_ratio": 15.543646855835078,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 190.5,
+                "num_components": 6,
+                "surface_area": 7431.68994140625,
+                "surface_volume_ratio": 39.011495755413385,
+                "complexity_score": 2.851526041946039
+            },
+            "tumor_burden": 0.08515260419460388,
+            "overall_complexity": 2.9010173612973595
+        }
+    },
+    "liver_125": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_125",
+        "metrics": {
+            "liver": {
+                "volume": 1620.492,
+                "num_components": 1,
+                "surface_area": 21265.8125,
+                "surface_volume_ratio": 13.123059231393922,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 0.54,
+                "num_components": 1,
+                "surface_area": 68.29478454589844,
+                "surface_volume_ratio": 126.47182323314524,
+                "complexity_score": 1.203332321295014
+            },
+            "tumor_burden": 0.0003332321295014107,
+            "overall_complexity": 1.4688882141966761
+        }
+    },
+    "liver_126": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_126",
+        "metrics": {
+            "liver": {
+                "volume": 1759.68,
+                "num_components": 6,
+                "surface_area": 20848.306640625,
+                "surface_volume_ratio": 11.847782915430646,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 3.336,
+                "num_components": 1,
+                "surface_area": 261.2386169433594,
+                "surface_volume_ratio": 78.30893793266169,
+                "complexity_score": 1.2189579923622476
+            },
+            "tumor_burden": 0.001895799236224768,
+            "overall_complexity": 1.8126386615748318
+        }
+    },
+    "liver_127": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_127",
+        "metrics": {
+            "liver": {
+                "volume": 1629.96,
+                "num_components": 2,
+                "surface_area": 21640.23828125,
+                "surface_volume_ratio": 13.27654560924808,
+                "complexity_score": 2.5
+            },
+            "tumor": {
+                "volume": 0.06,
+                "num_components": 1,
+                "surface_area": 12.120956420898438,
+                "surface_volume_ratio": 202.0159403483073,
+                "complexity_score": 1.2003681071928145
+            },
+            "tumor_burden": 3.681071928145476e-05,
+            "overall_complexity": 1.6335787381285432
+        }
+    },
+    "liver_128": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_128",
+        "metrics": {
+            "liver": {
+                "volume": 2229.156,
+                "num_components": 9,
+                "surface_area": 34085.53125,
+                "surface_volume_ratio": 15.290778774567595,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 140.916,
+                "num_components": 11,
+                "surface_area": 6470.134765625,
+                "surface_volume_ratio": 45.91483412547191,
+                "complexity_score": 2.632149566921292
+            },
+            "tumor_burden": 0.06321495669212922,
+            "overall_complexity": 2.754766377947528
+        }
+    },
+    "liver_129": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_129",
+        "metrics": {
+            "liver": {
+                "volume": 2652.324,
+                "num_components": 124,
+                "surface_area": 47937.85546875,
+                "surface_volume_ratio": 18.07390630584725,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 665.772,
+                "num_components": 9,
+                "surface_area": 17246.025390625,
+                "surface_volume_ratio": 25.903800986861867,
+                "complexity_score": 3.0
+            },
+            "tumor_burden": 0.25101458192890463,
+            "overall_complexity": 3.0
+        }
+    },
+    "liver_13": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_13",
+        "metrics": {
+            "liver": {
+                "volume": 1347.024,
+                "num_components": 10,
+                "surface_area": 21689.8515625,
+                "surface_volume_ratio": 16.10205279378838,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 16.56,
+                "num_components": 9,
+                "surface_area": 1308.6728515625,
+                "surface_volume_ratio": 79.02613837937803,
+                "complexity_score": 2.122937675943413
+            },
+            "tumor_burden": 0.012293767594341304,
+            "overall_complexity": 2.4152917839622754
+        }
+    },
+    "liver_14": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_14",
+        "metrics": {
+            "liver": {
+                "volume": 1428.756,
+                "num_components": 3,
+                "surface_area": 19663.02734375,
+                "surface_volume_ratio": 13.762341046161835,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 1.272,
+                "num_components": 2,
+                "surface_area": 153.31259155273438,
+                "surface_volume_ratio": 120.52876694397357,
+                "complexity_score": 1.408902849751812
+            },
+            "tumor_burden": 0.0008902849751812066,
+            "overall_complexity": 1.939268566501208
+        }
+    },
+    "liver_15": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_15",
+        "metrics": {
+            "liver": {
+                "volume": 1386.972,
+                "num_components": 1,
+                "surface_area": 19174.712890625,
+                "surface_volume_ratio": 13.82487381910017,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 0.408,
+                "num_components": 1,
+                "surface_area": 62.104095458984375,
+                "surface_volume_ratio": 152.21592024260877,
+                "complexity_score": 1.2029416599614122
+            },
+            "tumor_burden": 0.00029416599614123426,
+            "overall_complexity": 1.468627773307608
+        }
+    },
+    "liver_16": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_16",
+        "metrics": {
+            "liver": {
+                "volume": 1250.472,
+                "num_components": 7,
+                "surface_area": 25258.724609375,
+                "surface_volume_ratio": 20.199352412029217,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 147.192,
+                "num_components": 19,
+                "surface_area": 6680.125,
+                "surface_volume_ratio": 45.38375047556932,
+                "complexity_score": 3.0
+            },
+            "tumor_burden": 0.11770915302381821,
+            "overall_complexity": 3.0
+        }
+    },
+    "liver_17": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_17",
+        "metrics": {
+            "liver": {
+                "volume": 1586.376,
+                "num_components": 3,
+                "surface_area": 21092.560546875,
+                "surface_volume_ratio": 13.29606634673936,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 16.812,
+                "num_components": 4,
+                "surface_area": 1166.4625244140625,
+                "surface_volume_ratio": 69.38273402415312,
+                "complexity_score": 1.9059773975400536
+            },
+            "tumor_burden": 0.010597739754005357,
+            "overall_complexity": 2.2706515983600357
+        }
+    },
+    "liver_18": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_18",
+        "metrics": {
+            "liver": {
+                "volume": 1311.588,
+                "num_components": 2,
+                "surface_area": 18202.16015625,
+                "surface_volume_ratio": 13.877955696644069,
+                "complexity_score": 2.5
+            },
+            "tumor": {
+                "volume": 7.032,
+                "num_components": 4,
+                "surface_area": 690.0587158203125,
+                "surface_volume_ratio": 98.13121669799666,
+                "complexity_score": 1.853614397204
+            },
+            "tumor_burden": 0.0053614397204000035,
+            "overall_complexity": 2.0690762648026664
+        }
+    },
+    "liver_19": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_19",
+        "metrics": {
+            "liver": {
+                "volume": 1748.388,
+                "num_components": 2,
+                "surface_area": 22552.0859375,
+                "surface_volume_ratio": 12.898787876318071,
+                "complexity_score": 2.5
+            },
+            "tumor": {
+                "volume": 8.1,
+                "num_components": 5,
+                "surface_area": 855.2570190429688,
+                "surface_volume_ratio": 105.58728630160108,
+                "complexity_score": 2.0463283893506476
+            },
+            "tumor_burden": 0.004632838935064757,
+            "overall_complexity": 2.1975522595670984
+        }
+    },
+    "liver_2": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_2",
+        "metrics": {
+            "liver": {
+                "volume": 1916.016,
+                "num_components": 10,
+                "surface_area": 25921.56640625,
+                "surface_volume_ratio": 13.528888279769061,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 8.592,
+                "num_components": 1,
+                "surface_area": 516.666748046875,
+                "surface_volume_ratio": 60.13346695145193,
+                "complexity_score": 1.2448430493273541
+            },
+            "tumor_burden": 0.004484304932735426,
+            "overall_complexity": 1.829895366218236
+        }
+    },
+    "liver_20": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_20",
+        "metrics": {
+            "liver": {
+                "volume": 1889.484,
+                "num_components": 1,
+                "surface_area": 23207.26171875,
+                "surface_volume_ratio": 12.28232772479153,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 0.828,
+                "num_components": 3,
+                "surface_area": 138.23793029785156,
+                "surface_volume_ratio": 166.95402209885455,
+                "complexity_score": 1.6043821487771266
+            },
+            "tumor_burden": 0.0004382148777126454,
+            "overall_complexity": 1.7362547658514178
+        }
+    },
+    "liver_21": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_21",
+        "metrics": {
+            "liver": {
+                "volume": 1761.144,
+                "num_components": 4,
+                "surface_area": 24098.140625,
+                "surface_volume_ratio": 13.683231254798018,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 21.408,
+                "num_components": 7,
+                "surface_area": 1702.17236328125,
+                "surface_volume_ratio": 79.51104088570861,
+                "complexity_score": 2.121557351357981
+            },
+            "tumor_burden": 0.012155735135798096,
+            "overall_complexity": 2.4143715675719872
+        }
+    },
+    "liver_22": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_22",
+        "metrics": {
+            "liver": {
+                "volume": 1319.316,
+                "num_components": 1,
+                "surface_area": 17787.6953125,
+                "surface_volume_ratio": 13.482513145069111,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 28.032,
+                "num_components": 1,
+                "surface_area": 1202.6658935546875,
+                "surface_volume_ratio": 42.90332097441094,
+                "complexity_score": 1.4124737363906752
+            },
+            "tumor_burden": 0.021247373639067518,
+            "overall_complexity": 1.60831582426045
+        }
+    },
+    "liver_23": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_23",
+        "metrics": {
+            "liver": {
+                "volume": 1231.452,
+                "num_components": 2,
+                "surface_area": 16873.759765625,
+                "surface_volume_ratio": 13.702328442866632,
+                "complexity_score": 2.5
+            },
+            "tumor": {
+                "volume": 22.164,
+                "num_components": 2,
+                "surface_area": 991.81640625,
+                "surface_volume_ratio": 44.74898061044937,
+                "complexity_score": 1.579982654622348
+            },
+            "tumor_burden": 0.017998265462234826,
+            "overall_complexity": 1.8866551030815655
+        }
+    },
+    "liver_24": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_24",
+        "metrics": {
+            "liver": {
+                "volume": 1372.668,
+                "num_components": 1,
+                "surface_area": 17945.314453125,
+                "surface_volume_ratio": 13.073310118051126,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 1.02,
+                "num_components": 2,
+                "surface_area": 116.07288360595703,
+                "surface_volume_ratio": 113.79694471172257,
+                "complexity_score": 1.4074307844285725
+            },
+            "tumor_burden": 0.0007430784428572678,
+            "overall_complexity": 1.604953856285715
+        }
+    },
+    "liver_25": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_25",
+        "metrics": {
+            "liver": {
+                "volume": 1249.512,
+                "num_components": 1,
+                "surface_area": 18342.884765625,
+                "surface_volume_ratio": 14.680038899686439,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 0.156,
+                "num_components": 2,
+                "surface_area": 33.695640563964844,
+                "surface_volume_ratio": 215.99769592285156,
+                "complexity_score": 1.4012484874094846
+            },
+            "tumor_burden": 0.0001248487409484663,
+            "overall_complexity": 1.6008323249396563
+        }
+    },
+    "liver_26": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_26",
+        "metrics": {
+            "liver": {
+                "volume": 1193.7,
+                "num_components": 17,
+                "surface_area": 18302.697265625,
+                "surface_volume_ratio": 15.332744630665157,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 26.892,
+                "num_components": 4,
+                "surface_area": 1529.37158203125,
+                "surface_volume_ratio": 56.87087542879853,
+                "complexity_score": 2.0252827343553657
+            },
+            "tumor_burden": 0.022528273435536567,
+            "overall_complexity": 2.3501884895702436
+        }
+    },
+    "liver_27": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_27",
+        "metrics": {
+            "liver": {
+                "volume": 1216.152,
+                "num_components": 6,
+                "surface_area": 21203.322265625,
+                "surface_volume_ratio": 17.434763307238732,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 70.764,
+                "num_components": 12,
+                "surface_area": 4513.8740234375,
+                "surface_volume_ratio": 63.78771724941355,
+                "complexity_score": 2.5818680559666882
+            },
+            "tumor_burden": 0.058186805596668834,
+            "overall_complexity": 2.721245370644459
+        }
+    },
+    "liver_28": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_28",
+        "metrics": {
+            "liver": {
+                "volume": 2653.212,
+                "num_components": 36,
+                "surface_area": 43210.4140625,
+                "surface_volume_ratio": 16.286076673292598,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 213.06,
+                "num_components": 7,
+                "surface_area": 8730.03515625,
+                "surface_volume_ratio": 40.974538422275415,
+                "complexity_score": 2.803026671068878
+            },
+            "tumor_burden": 0.0803026671068878,
+            "overall_complexity": 2.868684447379252
+        }
+    },
+    "liver_29": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_29",
+        "metrics": {
+            "liver": {
+                "volume": 1634.94,
+                "num_components": 10,
+                "surface_area": 23888.365234375,
+                "surface_volume_ratio": 14.61115712770805,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 13.572,
+                "num_components": 1,
+                "surface_area": 816.9771728515625,
+                "surface_volume_ratio": 60.19578344028607,
+                "complexity_score": 1.2830122206319499
+            },
+            "tumor_burden": 0.00830122206319498,
+            "overall_complexity": 1.8553414804213
+        }
+    },
+    "liver_3": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_3",
+        "metrics": {
+            "liver": {
+                "volume": 1558.836,
+                "num_components": 2,
+                "surface_area": 22088.837890625,
+                "surface_volume_ratio": 14.170084531422805,
+                "complexity_score": 2.5
+            },
+            "tumor": {
+                "volume": 1.344,
+                "num_components": 1,
+                "surface_area": 139.21502685546875,
+                "surface_volume_ratio": 103.58260926746186,
+                "complexity_score": 1.2086218178179102
+            },
+            "tumor_burden": 0.0008621817817910288,
+            "overall_complexity": 1.639081211878607
+        }
+    },
+    "liver_30": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_30",
+        "metrics": {
+            "liver": {
+                "volume": 2361.708,
+                "num_components": 8,
+                "surface_area": 31524.771484375,
+                "surface_volume_ratio": 13.348293474203839,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 14.232,
+                "num_components": 1,
+                "surface_area": 907.1085205078125,
+                "surface_volume_ratio": 63.73724848986878,
+                "complexity_score": 1.2602614717822864
+            },
+            "tumor_burden": 0.0060261471782286375,
+            "overall_complexity": 1.8401743145215244
+        }
+    },
+    "liver_31": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_31",
+        "metrics": {
+            "liver": {
+                "volume": 1125.864,
+                "num_components": 3,
+                "surface_area": 24618.41015625,
+                "surface_volume_ratio": 21.86623797923195,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 7.176,
+                "num_components": 8,
+                "surface_area": 830.1527709960938,
+                "surface_volume_ratio": 115.68461134282242,
+                "complexity_score": 2.063737716100701
+            },
+            "tumor_burden": 0.006373771610070133,
+            "overall_complexity": 2.375825144067134
+        }
+    },
+    "liver_32": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_32",
+        "metrics": {
+            "liver": {
+                "volume": 2123.268,
+                "num_components": 1,
+                "surface_area": 32719.82421875,
+                "surface_volume_ratio": 15.41012449617759,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 0.0,
+                "num_components": 0,
+                "surface_area": 0,
+                "surface_volume_ratio": 0,
+                "complexity_score": 0.0
+            },
+            "tumor_burden": 0.0,
+            "overall_complexity": 0.6666666666666666
+        }
+    },
+    "liver_33": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_33",
+        "metrics": {
+            "liver": {
+                "volume": 1391.52,
+                "num_components": 136,
+                "surface_area": 42602.28125,
+                "surface_volume_ratio": 30.615644223582844,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 435.012,
+                "num_components": 17,
+                "surface_area": 19206.494140625,
+                "surface_volume_ratio": 44.15164211705654,
+                "complexity_score": 3.0
+            },
+            "tumor_burden": 0.3126164194549845,
+            "overall_complexity": 3.0
+        }
+    },
+    "liver_34": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_34",
+        "metrics": {
+            "liver": {
+                "volume": 1459.044,
+                "num_components": 1,
+                "surface_area": 31333.408203125,
+                "surface_volume_ratio": 21.475300404322965,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 0.0,
+                "num_components": 0,
+                "surface_area": 0,
+                "surface_volume_ratio": 0,
+                "complexity_score": 0.0
+            },
+            "tumor_burden": 0.0,
+            "overall_complexity": 0.6666666666666666
+        }
+    },
+    "liver_35": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_35",
+        "metrics": {
+            "liver": {
+                "volume": 3192.84,
+                "num_components": 18,
+                "surface_area": 46745.57421875,
+                "surface_volume_ratio": 14.640750622878064,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 19.848,
+                "num_components": 3,
+                "surface_area": 1603.7593994140625,
+                "surface_volume_ratio": 80.80206566979356,
+                "complexity_score": 1.6621640921561995
+            },
+            "tumor_burden": 0.006216409215619949,
+            "overall_complexity": 2.1081093947708
+        }
+    },
+    "liver_36": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_36",
+        "metrics": {
+            "liver": {
+                "volume": 1226.784,
+                "num_components": 17,
+                "surface_area": 23939.80859375,
+                "surface_volume_ratio": 19.514281726652776,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 39.396,
+                "num_components": 1,
+                "surface_area": 1748.609375,
+                "surface_volume_ratio": 44.38545474159813,
+                "complexity_score": 1.5211323264731198
+            },
+            "tumor_burden": 0.032113232647311994,
+            "overall_complexity": 2.0140882176487467
+        }
+    },
+    "liver_37": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_37",
+        "metrics": {
+            "liver": {
+                "volume": 1855.428,
+                "num_components": 1,
+                "surface_area": 28521.947265625,
+                "surface_volume_ratio": 15.37216602618102,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 14.916,
+                "num_components": 8,
+                "surface_area": 1573.545166015625,
+                "surface_volume_ratio": 105.49377621450958,
+                "complexity_score": 2.0803911550326935
+            },
+            "tumor_burden": 0.008039115503269327,
+            "overall_complexity": 2.053594103355129
+        }
+    },
+    "liver_38": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_38",
+        "metrics": {
+            "liver": {
+                "volume": 1690.128,
+                "num_components": 1,
+                "surface_area": 27287.658203125,
+                "surface_volume_ratio": 16.1453204746179,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 0.0,
+                "num_components": 0,
+                "surface_area": 0,
+                "surface_volume_ratio": 0,
+                "complexity_score": 0.0
+            },
+            "tumor_burden": 0.0,
+            "overall_complexity": 0.6666666666666666
+        }
+    },
+    "liver_39": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_39",
+        "metrics": {
+            "liver": {
+                "volume": 2993.94,
+                "num_components": 25,
+                "surface_area": 35875.5625,
+                "surface_volume_ratio": 11.98272593973159,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 348.18,
+                "num_components": 3,
+                "surface_area": 6381.06884765625,
+                "surface_volume_ratio": 18.326925290528607,
+                "complexity_score": 2.5163462645264305
+            },
+            "tumor_burden": 0.11629491572977414,
+            "overall_complexity": 2.6775641763509537
+        }
+    },
+    "liver_4": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_4",
+        "metrics": {
+            "liver": {
+                "volume": 2157.78,
+                "num_components": 284,
+                "surface_area": 46667.61328125,
+                "surface_volume_ratio": 21.627604890790533,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 986.904,
+                "num_components": 8,
+                "surface_area": 21255.0078125,
+                "surface_volume_ratio": 21.537057112444575,
+                "complexity_score": 3.0
+            },
+            "tumor_burden": 0.457370074799099,
+            "overall_complexity": 3.0
+        }
+    },
+    "liver_40": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_40",
+        "metrics": {
+            "liver": {
+                "volume": 1939.176,
+                "num_components": 16,
+                "surface_area": 42243.2109375,
+                "surface_volume_ratio": 21.784103628293668,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 122.064,
+                "num_components": 18,
+                "surface_area": 9359.93359375,
+                "surface_volume_ratio": 76.68054130415193,
+                "complexity_score": 2.629463235931138
+            },
+            "tumor_burden": 0.06294632359311378,
+            "overall_complexity": 2.752975490620759
+        }
+    },
+    "liver_41": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_41",
+        "metrics": {
+            "liver": {
+                "volume": 1634.952,
+                "num_components": 1,
+                "surface_area": 27921.134765625,
+                "surface_volume_ratio": 17.077648007785548,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 0.0,
+                "num_components": 0,
+                "surface_area": 0,
+                "surface_volume_ratio": 0,
+                "complexity_score": 0.0
+            },
+            "tumor_burden": 0.0,
+            "overall_complexity": 0.6666666666666666
+        }
+    },
+    "liver_42": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_42",
+        "metrics": {
+            "liver": {
+                "volume": 1388.388,
+                "num_components": 1,
+                "surface_area": 20151.4140625,
+                "surface_volume_ratio": 14.514252545037843,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 1.788,
+                "num_components": 2,
+                "surface_area": 235.35787963867188,
+                "surface_volume_ratio": 131.6319237352751,
+                "complexity_score": 1.412878244410064
+            },
+            "tumor_burden": 0.0012878244410064047,
+            "overall_complexity": 1.6085854962733759
+        }
+    },
+    "liver_43": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_43",
+        "metrics": {
+            "liver": {
+                "volume": 2711.94,
+                "num_components": 3,
+                "surface_area": 39619.4140625,
+                "surface_volume_ratio": 14.609251702655664,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 7.2,
+                "num_components": 1,
+                "surface_area": 539.134521484375,
+                "surface_volume_ratio": 74.87979465060764,
+                "complexity_score": 1.2265492599393792
+            },
+            "tumor_burden": 0.002654925993937919,
+            "overall_complexity": 1.817699506626253
+        }
+    },
+    "liver_44": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_44",
+        "metrics": {
+            "liver": {
+                "volume": 1923.372,
+                "num_components": 97,
+                "surface_area": 34550.66015625,
+                "surface_volume_ratio": 17.963586948468627,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 184.86,
+                "num_components": 2,
+                "surface_area": 6790.640625,
+                "surface_volume_ratio": 36.73396421616358,
+                "complexity_score": 2.361124525052876
+            },
+            "tumor_burden": 0.09611245250528759,
+            "overall_complexity": 2.5740830167019175
+        }
+    },
+    "liver_45": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_45",
+        "metrics": {
+            "liver": {
+                "volume": 1217.628,
+                "num_components": 3,
+                "surface_area": 29181.787109375,
+                "surface_volume_ratio": 23.966094003566774,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 4.632,
+                "num_components": 1,
+                "surface_area": 493.8008728027344,
+                "surface_volume_ratio": 106.60640604549533,
+                "complexity_score": 1.238041175137234
+            },
+            "tumor_burden": 0.0038041175137234033,
+            "overall_complexity": 1.8253607834248227
+        }
+    },
+    "liver_46": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_46",
+        "metrics": {
+            "liver": {
+                "volume": 544.332,
+                "num_components": 1,
+                "surface_area": 23008.892578125,
+                "surface_volume_ratio": 42.26996130693217,
+                "complexity_score": 1.544332
+            },
+            "tumor": {
+                "volume": 39.948,
+                "num_components": 37,
+                "surface_area": 5775.56689453125,
+                "surface_volume_ratio": 144.57712262269075,
+                "complexity_score": 2.733890346332753
+            },
+            "tumor_burden": 0.07338903463327529,
+            "overall_complexity": 2.3373708975551684
+        }
+    },
+    "liver_47": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_47",
+        "metrics": {
+            "liver": {
+                "volume": 1358.16,
+                "num_components": 1,
+                "surface_area": 24838.20703125,
+                "surface_volume_ratio": 18.288130287484538,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 0.0,
+                "num_components": 0,
+                "surface_area": 0,
+                "surface_volume_ratio": 0,
+                "complexity_score": 0.0
+            },
+            "tumor_burden": 0.0,
+            "overall_complexity": 0.6666666666666666
+        }
+    },
+    "liver_48": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_48",
+        "metrics": {
+            "liver": {
+                "volume": 2027.088,
+                "num_components": 1,
+                "surface_area": 26778.60546875,
+                "surface_volume_ratio": 13.210381329646271,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 84.924,
+                "num_components": 4,
+                "surface_area": 2477.58984375,
+                "surface_volume_ratio": 29.174200976755685,
+                "complexity_score": 2.218945798110393
+            },
+            "tumor_burden": 0.041894579811039286,
+            "overall_complexity": 2.145963865406929
+        }
+    },
+    "liver_49": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_49",
+        "metrics": {
+            "liver": {
+                "volume": 1642.164,
+                "num_components": 1,
+                "surface_area": 22689.69921875,
+                "surface_volume_ratio": 13.816950815357053,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 18.276,
+                "num_components": 18,
+                "surface_area": 1663.48583984375,
+                "surface_volume_ratio": 91.02023636702506,
+                "complexity_score": 2.111292173010735
+            },
+            "tumor_burden": 0.011129217301073462,
+            "overall_complexity": 2.0741947820071567
+        }
+    },
+    "liver_5": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_5",
+        "metrics": {
+            "liver": {
+                "volume": 1435.08,
+                "num_components": 1,
+                "surface_area": 20064.64453125,
+                "surface_volume_ratio": 13.981551224496195,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 0.36,
+                "num_components": 1,
+                "surface_area": 60.265296936035156,
+                "surface_volume_ratio": 167.40360260009766,
+                "complexity_score": 1.2025085709507484
+            },
+            "tumor_burden": 0.00025085709507483906,
+            "overall_complexity": 1.468339047300499
+        }
+    },
+    "liver_50": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_50",
+        "metrics": {
+            "liver": {
+                "volume": 1455.888,
+                "num_components": 1,
+                "surface_area": 18223.71484375,
+                "surface_volume_ratio": 12.517250532836318,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 6.48,
+                "num_components": 1,
+                "surface_area": 426.46929931640625,
+                "surface_volume_ratio": 65.81316347475405,
+                "complexity_score": 1.2445089182684381
+            },
+            "tumor_burden": 0.004450891826843824,
+            "overall_complexity": 1.4963392788456253
+        }
+    },
+    "liver_51": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_51",
+        "metrics": {
+            "liver": {
+                "volume": 1602.9,
+                "num_components": 23,
+                "surface_area": 33301.3359375,
+                "surface_volume_ratio": 20.775679042672653,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 305.172,
+                "num_components": 10,
+                "surface_area": 9233.93359375,
+                "surface_volume_ratio": 30.25812851031549,
+                "complexity_score": 3.0
+            },
+            "tumor_burden": 0.19038742279618193,
+            "overall_complexity": 3.0
+        }
+    },
+    "liver_52": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_52",
+        "metrics": {
+            "liver": {
+                "volume": 1296.936,
+                "num_components": 3,
+                "surface_area": 18179.712890625,
+                "surface_volume_ratio": 14.017432541486242,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 31.08,
+                "num_components": 2,
+                "surface_area": 1360.152587890625,
+                "surface_volume_ratio": 43.76295327833414,
+                "complexity_score": 1.6396417402246524
+            },
+            "tumor_burden": 0.023964174022465257,
+            "overall_complexity": 2.0930944934831017
+        }
+    },
+    "liver_53": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_53",
+        "metrics": {
+            "liver": {
+                "volume": 1611.18,
+                "num_components": 1,
+                "surface_area": 20053.48046875,
+                "surface_volume_ratio": 12.446455683877655,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 6.564,
+                "num_components": 2,
+                "surface_area": 497.3578796386719,
+                "surface_volume_ratio": 75.77054839102253,
+                "complexity_score": 1.4407403269653296
+            },
+            "tumor_burden": 0.004074032696532975,
+            "overall_complexity": 1.6271602179768863
+        }
+    },
+    "liver_54": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_54",
+        "metrics": {
+            "liver": {
+                "volume": 1801.74,
+                "num_components": 1,
+                "surface_area": 25124.310546875,
+                "surface_volume_ratio": 13.94447064885888,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 1.764,
+                "num_components": 1,
+                "surface_area": 150.82716369628906,
+                "surface_volume_ratio": 85.50292726546999,
+                "complexity_score": 1.2097905358153784
+            },
+            "tumor_burden": 0.0009790535815378467,
+            "overall_complexity": 1.4731936905435858
+        }
+    },
+    "liver_55": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_55",
+        "metrics": {
+            "liver": {
+                "volume": 1890.096,
+                "num_components": 2,
+                "surface_area": 26480.244140625,
+                "surface_volume_ratio": 14.009999566490274,
+                "complexity_score": 2.5
+            },
+            "tumor": {
+                "volume": 3.492,
+                "num_components": 1,
+                "surface_area": 263.9681396484375,
+                "surface_volume_ratio": 75.59225075842998,
+                "complexity_score": 1.2184752520506894
+            },
+            "tumor_burden": 0.0018475252050689488,
+            "overall_complexity": 1.645650168033793
+        }
+    },
+    "liver_56": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_56",
+        "metrics": {
+            "liver": {
+                "volume": 1891.932,
+                "num_components": 94,
+                "surface_area": 27463.052734375,
+                "surface_volume_ratio": 14.515877280142732,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 347.484,
+                "num_components": 2,
+                "surface_area": 6811.185546875,
+                "surface_volume_ratio": 19.60143646002406,
+                "complexity_score": 2.3800718230012032
+            },
+            "tumor_burden": 0.18366622056183837,
+            "overall_complexity": 2.586714548667469
+        }
+    },
+    "liver_57": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_57",
+        "metrics": {
+            "liver": {
+                "volume": 1856.856,
+                "num_components": 1,
+                "surface_area": 22187.04296875,
+                "surface_volume_ratio": 11.948714907752674,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 4.008,
+                "num_components": 2,
+                "surface_area": 356.3902587890625,
+                "surface_volume_ratio": 88.91972524677207,
+                "complexity_score": 1.4215848724941513
+            },
+            "tumor_burden": 0.0021584872494151406,
+            "overall_complexity": 1.614389914996101
+        }
+    },
+    "liver_58": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_58",
+        "metrics": {
+            "liver": {
+                "volume": 1248.372,
+                "num_components": 1,
+                "surface_area": 18950.263671875,
+                "surface_volume_ratio": 15.179981345203993,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 1.452,
+                "num_components": 5,
+                "surface_area": 207.4267578125,
+                "surface_volume_ratio": 142.8558938102617,
+                "complexity_score": 2.011631148407686
+            },
+            "tumor_burden": 0.0011631148407686169,
+            "overall_complexity": 2.0077540989384572
+        }
+    },
+    "liver_59": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_59",
+        "metrics": {
+            "liver": {
+                "volume": 1402.8,
+                "num_components": 1,
+                "surface_area": 17480.515625,
+                "surface_volume_ratio": 12.461160268748218,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 0.732,
+                "num_components": 1,
+                "surface_area": 88.21720123291016,
+                "surface_volume_ratio": 120.51530223075159,
+                "complexity_score": 1.205218135158255
+            },
+            "tumor_burden": 0.0005218135158254919,
+            "overall_complexity": 1.4701454234388365
+        }
+    },
+    "liver_6": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_6",
+        "metrics": {
+            "liver": {
+                "volume": 1863.648,
+                "num_components": 4,
+                "surface_area": 24191.076171875,
+                "surface_volume_ratio": 12.980496409126081,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 23.52,
+                "num_components": 7,
+                "surface_area": 1466.259033203125,
+                "surface_volume_ratio": 62.340945289248516,
+                "complexity_score": 2.126204090042755
+            },
+            "tumor_burden": 0.012620409004275485,
+            "overall_complexity": 2.4174693933618365
+        }
+    },
+    "liver_60": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_60",
+        "metrics": {
+            "liver": {
+                "volume": 2389.596,
+                "num_components": 1,
+                "surface_area": 28764.9375,
+                "surface_volume_ratio": 12.037573506149156,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 14.664,
+                "num_components": 1,
+                "surface_area": 726.261962890625,
+                "surface_volume_ratio": 49.5268659909046,
+                "complexity_score": 1.2613660217040872
+            },
+            "tumor_burden": 0.0061366021704087215,
+            "overall_complexity": 1.5075773478027248
+        }
+    },
+    "liver_61": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_61",
+        "metrics": {
+            "liver": {
+                "volume": 1621.212,
+                "num_components": 6,
+                "surface_area": 27301.86328125,
+                "surface_volume_ratio": 16.84040290921237,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 4.44,
+                "num_components": 2,
+                "surface_area": 358.6868896484375,
+                "surface_volume_ratio": 80.78533550640483,
+                "complexity_score": 1.4273869179354703
+            },
+            "tumor_burden": 0.0027386917935470502,
+            "overall_complexity": 1.9515912786236467
+        }
+    },
+    "liver_62": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_62",
+        "metrics": {
+            "liver": {
+                "volume": 1181.904,
+                "num_components": 1,
+                "surface_area": 15058.208984375,
+                "surface_volume_ratio": 12.740636282113437,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 2.652,
+                "num_components": 2,
+                "surface_area": 244.6833038330078,
+                "surface_volume_ratio": 92.26368922813265,
+                "complexity_score": 1.4224383706290866
+            },
+            "tumor_burden": 0.002243837062908663,
+            "overall_complexity": 1.6149589137527245
+        }
+    },
+    "liver_63": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_63",
+        "metrics": {
+            "liver": {
+                "volume": 1741.224,
+                "num_components": 1,
+                "surface_area": 22866.478515625,
+                "surface_volume_ratio": 13.132416343689842,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 1.788,
+                "num_components": 5,
+                "surface_area": 219.38575744628906,
+                "surface_volume_ratio": 122.69896948897599,
+                "complexity_score": 2.0102686386128377
+            },
+            "tumor_burden": 0.0010268638612837867,
+            "overall_complexity": 2.006845759075225
+        }
+    },
+    "liver_64": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_64",
+        "metrics": {
+            "liver": {
+                "volume": 1978.896,
+                "num_components": 13,
+                "surface_area": 26899.423828125,
+                "surface_volume_ratio": 13.59314679908646,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 215.964,
+                "num_components": 1,
+                "surface_area": 3895.705322265625,
+                "surface_volume_ratio": 18.038679234805915,
+                "complexity_score": 2.1019339617402957
+            },
+            "tumor_burden": 0.1091335775098843,
+            "overall_complexity": 2.401289307826864
+        }
+    },
+    "liver_65": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_65",
+        "metrics": {
+            "liver": {
+                "volume": 870.336,
+                "num_components": 1,
+                "surface_area": 15085.392578125,
+                "surface_volume_ratio": 17.332837637561816,
+                "complexity_score": 1.870336
+            },
+            "tumor": {
+                "volume": 0.54,
+                "num_components": 1,
+                "surface_area": 74.91372680664062,
+                "surface_volume_ratio": 138.72912371600114,
+                "complexity_score": 1.2062045003309065
+            },
+            "tumor_burden": 0.0006204500330906685,
+            "overall_complexity": 1.427581666887271
+        }
+    },
+    "liver_66": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_66",
+        "metrics": {
+            "liver": {
+                "volume": 1707.972,
+                "num_components": 2,
+                "surface_area": 22014.6171875,
+                "surface_volume_ratio": 12.889331433712028,
+                "complexity_score": 2.5
+            },
+            "tumor": {
+                "volume": 5.772,
+                "num_components": 5,
+                "surface_area": 554.7371826171875,
+                "surface_volume_ratio": 96.10831299674072,
+                "complexity_score": 2.033794465014649
+            },
+            "tumor_burden": 0.0033794465014648956,
+            "overall_complexity": 2.1891963100097658
+        }
+    },
+    "liver_67": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_67",
+        "metrics": {
+            "liver": {
+                "volume": 1392.084,
+                "num_components": 2,
+                "surface_area": 19165.61328125,
+                "surface_volume_ratio": 13.767569544115153,
+                "complexity_score": 2.5
+            },
+            "tumor": {
+                "volume": 0.648,
+                "num_components": 1,
+                "surface_area": 80.36480712890625,
+                "surface_volume_ratio": 124.01976408781829,
+                "complexity_score": 1.2046548915151671
+            },
+            "tumor_burden": 0.0004654891515167188,
+            "overall_complexity": 1.6364365943434447
+        }
+    },
+    "liver_68": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_68",
+        "metrics": {
+            "liver": {
+                "volume": 1404.312,
+                "num_components": 1,
+                "surface_area": 18380.484375,
+                "surface_volume_ratio": 13.0886045088271,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 5.268,
+                "num_components": 1,
+                "surface_area": 348.693115234375,
+                "surface_volume_ratio": 66.19079636187833,
+                "complexity_score": 1.2375130312921914
+            },
+            "tumor_burden": 0.003751303129219148,
+            "overall_complexity": 1.4916753541947942
+        }
+    },
+    "liver_69": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_69",
+        "metrics": {
+            "liver": {
+                "volume": 1844.916,
+                "num_components": 1,
+                "surface_area": 22704.134765625,
+                "surface_volume_ratio": 12.306324388549397,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 3.408,
+                "num_components": 1,
+                "surface_area": 275.6235046386719,
+                "surface_volume_ratio": 80.87544150195771,
+                "complexity_score": 1.2184723857346351
+            },
+            "tumor_burden": 0.0018472385734635073,
+            "overall_complexity": 1.4789815904897567
+        }
+    },
+    "liver_7": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_7",
+        "metrics": {
+            "liver": {
+                "volume": 1698.048,
+                "num_components": 2,
+                "surface_area": 22946.296875,
+                "surface_volume_ratio": 13.513338183019561,
+                "complexity_score": 2.5
+            },
+            "tumor": {
+                "volume": 18.12,
+                "num_components": 6,
+                "surface_area": 1186.7237548828125,
+                "surface_volume_ratio": 65.4924809537976,
+                "complexity_score": 2.106710764360018
+            },
+            "tumor_burden": 0.01067107643600181,
+            "overall_complexity": 2.237807176240012
+        }
+    },
+    "liver_70": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_70",
+        "metrics": {
+            "liver": {
+                "volume": 1000.008,
+                "num_components": 3,
+                "surface_area": 17472.185546875,
+                "surface_volume_ratio": 17.472045770508835,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 53.244,
+                "num_components": 3,
+                "surface_area": 2139.162353515625,
+                "surface_volume_ratio": 40.17658991652815,
+                "complexity_score": 2.132435740514076
+            },
+            "tumor_burden": 0.05324357405140759,
+            "overall_complexity": 2.421623827009384
+        }
+    },
+    "liver_71": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_71",
+        "metrics": {
+            "liver": {
+                "volume": 1447.74,
+                "num_components": 87,
+                "surface_area": 20228.8984375,
+                "surface_volume_ratio": 13.972742645433572,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 222.324,
+                "num_components": 7,
+                "surface_area": 6247.2177734375,
+                "surface_volume_ratio": 28.099610358924362,
+                "complexity_score": 3.0
+            },
+            "tumor_burden": 0.15356624808321936,
+            "overall_complexity": 3.0
+        }
+    },
+    "liver_72": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_72",
+        "metrics": {
+            "liver": {
+                "volume": 1405.344,
+                "num_components": 1,
+                "surface_area": 19590.21484375,
+                "surface_volume_ratio": 13.939800393177755,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 26.4,
+                "num_components": 3,
+                "surface_area": 1261.5185546875,
+                "surface_volume_ratio": 47.78479373816288,
+                "complexity_score": 1.787854361636724
+            },
+            "tumor_burden": 0.01878543616367238,
+            "overall_complexity": 1.8585695744244826
+        }
+    },
+    "liver_73": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_73",
+        "metrics": {
+            "liver": {
+                "volume": 2033.34,
+                "num_components": 1,
+                "surface_area": 23686.54296875,
+                "surface_volume_ratio": 11.649081299118691,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 2.22,
+                "num_components": 1,
+                "surface_area": 212.21014404296875,
+                "surface_volume_ratio": 95.59015497431024,
+                "complexity_score": 1.2109179969901738
+            },
+            "tumor_burden": 0.0010917996990173805,
+            "overall_complexity": 1.4739453313267825
+        }
+    },
+    "liver_74": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_74",
+        "metrics": {
+            "liver": {
+                "volume": 2416.8,
+                "num_components": 36,
+                "surface_area": 30163.408203125,
+                "surface_volume_ratio": 12.480721699406239,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 126.3,
+                "num_components": 2,
+                "surface_area": 3454.4677734375,
+                "surface_volume_ratio": 27.351288784144895,
+                "complexity_score": 1.922591857000993
+            },
+            "tumor_burden": 0.0522591857000993,
+            "overall_complexity": 2.2817279046673287
+        }
+    },
+    "liver_75": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_75",
+        "metrics": {
+            "liver": {
+                "volume": 1744.956,
+                "num_components": 2,
+                "surface_area": 21125.3203125,
+                "surface_volume_ratio": 12.106506016484085,
+                "complexity_score": 2.5
+            },
+            "tumor": {
+                "volume": 7.92,
+                "num_components": 4,
+                "surface_area": 628.198486328125,
+                "surface_volume_ratio": 79.31799069799558,
+                "complexity_score": 1.8453879639371995
+            },
+            "tumor_burden": 0.004538796393719956,
+            "overall_complexity": 2.063591975958133
+        }
+    },
+    "liver_76": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_76",
+        "metrics": {
+            "liver": {
+                "volume": 1712.052,
+                "num_components": 14,
+                "surface_area": 29275.91796875,
+                "surface_volume_ratio": 17.09989998478434,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 265.752,
+                "num_components": 10,
+                "surface_area": 9277.001953125,
+                "surface_volume_ratio": 34.90849345677549,
+                "complexity_score": 3.0
+            },
+            "tumor_burden": 0.15522425720714092,
+            "overall_complexity": 3.0
+        }
+    },
+    "liver_77": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_77",
+        "metrics": {
+            "liver": {
+                "volume": 1885.644,
+                "num_components": 1,
+                "surface_area": 23641.376953125,
+                "surface_volume_ratio": 12.537561147875738,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 12.924,
+                "num_components": 2,
+                "surface_area": 796.44384765625,
+                "surface_volume_ratio": 61.625181650901425,
+                "complexity_score": 1.4685389182687718
+            },
+            "tumor_burden": 0.006853891826877183,
+            "overall_complexity": 1.6456926121791813
+        }
+    },
+    "liver_78": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_78",
+        "metrics": {
+            "liver": {
+                "volume": 1539.612,
+                "num_components": 3,
+                "surface_area": 19874.966796875,
+                "surface_volume_ratio": 12.909075011675018,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 19.752,
+                "num_components": 14,
+                "surface_area": 1367.1827392578125,
+                "surface_volume_ratio": 69.21743313374911,
+                "complexity_score": 2.1282920631951425
+            },
+            "tumor_burden": 0.012829206319514265,
+            "overall_complexity": 2.4188613754634285
+        }
+    },
+    "liver_79": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_79",
+        "metrics": {
+            "liver": {
+                "volume": 1241.304,
+                "num_components": 4,
+                "surface_area": 17849.255859375,
+                "surface_volume_ratio": 14.379439572719495,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 17.484,
+                "num_components": 10,
+                "surface_area": 1350.884765625,
+                "surface_volume_ratio": 77.26405660175017,
+                "complexity_score": 2.1408518783472865
+            },
+            "tumor_burden": 0.014085187834728641,
+            "overall_complexity": 2.427234585564858
+        }
+    },
+    "liver_8": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_8",
+        "metrics": {
+            "liver": {
+                "volume": 1883.652,
+                "num_components": 3,
+                "surface_area": 24168.28515625,
+                "surface_volume_ratio": 12.830546808141843,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 14.784,
+                "num_components": 6,
+                "surface_area": 1030.1898193359375,
+                "surface_volume_ratio": 69.68275293127283,
+                "complexity_score": 2.078485834963146
+            },
+            "tumor_burden": 0.007848583496314607,
+            "overall_complexity": 2.385657223308764
+        }
+    },
+    "liver_80": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_80",
+        "metrics": {
+            "liver": {
+                "volume": 1304.484,
+                "num_components": 20,
+                "surface_area": 18348.7109375,
+                "surface_volume_ratio": 14.06587657456895,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 82.632,
+                "num_components": 2,
+                "surface_area": 2403.08642578125,
+                "surface_volume_ratio": 29.081789449380988,
+                "complexity_score": 2.0334458682513548
+            },
+            "tumor_burden": 0.06334458682513547,
+            "overall_complexity": 2.3556305788342367
+        }
+    },
+    "liver_81": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_81",
+        "metrics": {
+            "liver": {
+                "volume": 1446.588,
+                "num_components": 1,
+                "surface_area": 18313.169921875,
+                "surface_volume_ratio": 12.659561618010795,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 3.276,
+                "num_components": 1,
+                "surface_area": 268.53363037109375,
+                "surface_volume_ratio": 81.969972640749,
+                "complexity_score": 1.2226463927531543
+            },
+            "tumor_burden": 0.0022646392753154316,
+            "overall_complexity": 1.4817642618354363
+        }
+    },
+    "liver_82": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_82",
+        "metrics": {
+            "liver": {
+                "volume": 1477.044,
+                "num_components": 3,
+                "surface_area": 21112.701171875,
+                "surface_volume_ratio": 14.293887773062277,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 44.46,
+                "num_components": 1,
+                "surface_area": 1638.12890625,
+                "surface_volume_ratio": 36.845004639001345,
+                "complexity_score": 1.5010066050842088
+            },
+            "tumor_burden": 0.030100660508420873,
+            "overall_complexity": 2.000671070056139
+        }
+    },
+    "liver_83": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_83",
+        "metrics": {
+            "liver": {
+                "volume": 1138.644,
+                "num_components": 1,
+                "surface_area": 17530.6484375,
+                "surface_volume_ratio": 15.396075013349211,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 0.036,
+                "num_components": 1,
+                "surface_area": 7.2925286293029785,
+                "surface_volume_ratio": 202.57023970286053,
+                "complexity_score": 1.200316165544279
+            },
+            "tumor_burden": 3.1616554427898445e-05,
+            "overall_complexity": 1.4668774436961858
+        }
+    },
+    "liver_84": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_84",
+        "metrics": {
+            "liver": {
+                "volume": 1967.244,
+                "num_components": 26,
+                "surface_area": 34495.28125,
+                "surface_volume_ratio": 17.53482600531505,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 217.632,
+                "num_components": 11,
+                "surface_area": 9001.962890625,
+                "surface_volume_ratio": 41.363231926485994,
+                "complexity_score": 3.0
+            },
+            "tumor_burden": 0.11062786314254867,
+            "overall_complexity": 3.0
+        }
+    },
+    "liver_87": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_87",
+        "metrics": {
+            "liver": {
+                "volume": 2278.38,
+                "num_components": 1,
+                "surface_area": 29347.40625,
+                "surface_volume_ratio": 12.880821570589628,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 0.0,
+                "num_components": 0,
+                "surface_area": 0,
+                "surface_volume_ratio": 0,
+                "complexity_score": 0.0
+            },
+            "tumor_burden": 0.0,
+            "overall_complexity": 0.6666666666666666
+        }
+    },
+    "liver_88": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_88",
+        "metrics": {
+            "liver": {
+                "volume": 1440.336,
+                "num_components": 33,
+                "surface_area": 22889.830078125,
+                "surface_volume_ratio": 15.892007197018613,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 115.572,
+                "num_components": 7,
+                "surface_area": 3884.0673828125,
+                "surface_volume_ratio": 33.60733899917368,
+                "complexity_score": 2.802396107574899
+            },
+            "tumor_burden": 0.08023961075748992,
+            "overall_complexity": 2.8682640717165993
+        }
+    },
+    "liver_89": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_89",
+        "metrics": {
+            "liver": {
+                "volume": 1240.236,
+                "num_components": 1,
+                "surface_area": 20554.46875,
+                "surface_volume_ratio": 16.573030253919413,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 0.0,
+                "num_components": 0,
+                "surface_area": 0,
+                "surface_volume_ratio": 0,
+                "complexity_score": 0.0
+            },
+            "tumor_burden": 0.0,
+            "overall_complexity": 0.6666666666666666
+        }
+    },
+    "liver_9": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_9",
+        "metrics": {
+            "liver": {
+                "volume": 1532.772,
+                "num_components": 3,
+                "surface_area": 21648.251953125,
+                "surface_volume_ratio": 14.123595650967658,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 14.652,
+                "num_components": 7,
+                "surface_area": 1084.1397705078125,
+                "surface_volume_ratio": 73.99261332977153,
+                "complexity_score": 2.0955915165464924
+            },
+            "tumor_burden": 0.009559151654649224,
+            "overall_complexity": 2.397061011030995
+        }
+    },
+    "liver_90": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_90",
+        "metrics": {
+            "liver": {
+                "volume": 1591.572,
+                "num_components": 65,
+                "surface_area": 24811.87109375,
+                "surface_volume_ratio": 15.589537321434406,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 121.848,
+                "num_components": 8,
+                "surface_area": 5396.884765625,
+                "surface_volume_ratio": 44.29194377933983,
+                "complexity_score": 2.765582706908641
+            },
+            "tumor_burden": 0.07655827069086413,
+            "overall_complexity": 2.8437218046057606
+        }
+    },
+    "liver_91": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_91",
+        "metrics": {
+            "liver": {
+                "volume": 1635.372,
+                "num_components": 1,
+                "surface_area": 22854.16796875,
+                "surface_volume_ratio": 13.974904773195334,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 0.0,
+                "num_components": 0,
+                "surface_area": 0,
+                "surface_volume_ratio": 0,
+                "complexity_score": 0.0
+            },
+            "tumor_burden": 0.0,
+            "overall_complexity": 0.6666666666666666
+        }
+    },
+    "liver_92": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_92",
+        "metrics": {
+            "liver": {
+                "volume": 1214.976,
+                "num_components": 1,
+                "surface_area": 18467.83203125,
+                "surface_volume_ratio": 15.200162004228888,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 1.08,
+                "num_components": 9,
+                "surface_area": 177.710205078125,
+                "surface_volume_ratio": 164.54648618344908,
+                "complexity_score": 2.0088890644753477
+            },
+            "tumor_burden": 0.000888906447534766,
+            "overall_complexity": 2.0059260429835652
+        }
+    },
+    "liver_93": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_93",
+        "metrics": {
+            "liver": {
+                "volume": 1503.204,
+                "num_components": 21,
+                "surface_area": 26883.984375,
+                "surface_volume_ratio": 17.884455054004647,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 121.956,
+                "num_components": 29,
+                "surface_area": 7379.50732421875,
+                "surface_volume_ratio": 60.509588082740905,
+                "complexity_score": 2.811307048145162
+            },
+            "tumor_burden": 0.0811307048145162,
+            "overall_complexity": 2.874204698763441
+        }
+    },
+    "liver_94": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_94",
+        "metrics": {
+            "liver": {
+                "volume": 1454.22,
+                "num_components": 1,
+                "surface_area": 23872.091796875,
+                "surface_volume_ratio": 16.415736131310943,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 30.612,
+                "num_components": 14,
+                "surface_area": 2328.07080078125,
+                "surface_volume_ratio": 76.0509212328907,
+                "complexity_score": 2.2105046004043403
+            },
+            "tumor_burden": 0.021050460040434045,
+            "overall_complexity": 2.14033640026956
+        }
+    },
+    "liver_95": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_95",
+        "metrics": {
+            "liver": {
+                "volume": 1774.908,
+                "num_components": 1,
+                "surface_area": 24106.96484375,
+                "surface_volume_ratio": 13.582092617617365,
+                "complexity_score": 2.0
+            },
+            "tumor": {
+                "volume": 1.056,
+                "num_components": 3,
+                "surface_area": 143.1141815185547,
+                "surface_volume_ratio": 135.52479310469192,
+                "complexity_score": 1.6059496041484969
+            },
+            "tumor_burden": 0.0005949604148496712,
+            "overall_complexity": 1.737299736098998
+        }
+    },
+    "liver_98": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_98",
+        "metrics": {
+            "liver": {
+                "volume": 1326.216,
+                "num_components": 94,
+                "surface_area": 27065.66796875,
+                "surface_volume_ratio": 20.408189894217838,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 229.896,
+                "num_components": 19,
+                "surface_area": 8403.1318359375,
+                "surface_volume_ratio": 36.55188361666797,
+                "complexity_score": 3.0
+            },
+            "tumor_burden": 0.17334732803706185,
+            "overall_complexity": 3.0
+        }
+    },
+    "liver_99": {
+        "path": "output_multimodal_liver_segmentation\\ct_processed\\liver_99",
+        "metrics": {
+            "liver": {
+                "volume": 1574.544,
+                "num_components": 4,
+                "surface_area": 21599.3359375,
+                "surface_volume_ratio": 13.717835727359793,
+                "complexity_score": 3.0
+            },
+            "tumor": {
+                "volume": 5.316,
+                "num_components": 13,
+                "surface_area": 641.4227294921875,
+                "surface_volume_ratio": 120.65890321523467,
+                "complexity_score": 2.033762155900375
+            },
+            "tumor_burden": 0.0033762155900374964,
+            "overall_complexity": 2.3558414372669167
+        }
+    }
+}
